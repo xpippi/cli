@@ -9,7 +9,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.2.0
 	github.com/charmbracelet/glamour v0.5.1-0.20220727184942-e70ff2d969da
 	github.com/charmbracelet/lipgloss v0.5.0
-	github.com/cli/go-gh/v2 v2.0.0
+	github.com/cli/go-gh/v2 v2.0.1
 	github.com/cli/oauth v1.0.1
 	github.com/cli/safeexec v1.0.1
 	github.com/cpuguy83/go-md2man/v2 v2.0.2
@@ -25,7 +25,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/mattn/go-colorable v0.1.13
-	github.com/mattn/go-isatty v0.0.18
+	github.com/mattn/go-isatty v0.0.19
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 	github.com/muhammadmuzzammil1998/jsonc v0.0.0-20201229145248-615b0916ca38
 	github.com/opentracing/opentracing-go v1.1.0
@@ -61,8 +61,8 @@ require (
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
-	github.com/itchyny/gojq v0.12.8 // indirect
-	github.com/itchyny/timefmt-go v0.1.3 // indirect
+	github.com/itchyny/gojq v0.12.13 // indirect
+	github.com/itchyny/timefmt-go v0.1.5 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.20 // indirect
@@ -70,7 +70,7 @@ require (
 	github.com/muesli/termenv v0.12.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/rivo/uniseg v0.4.2 // indirect
+	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/shurcooL/graphql v0.0.0-20220606043923-3cf50f8a0a29 // indirect
 	github.com/stretchr/objx v0.4.0 // indirect
@@ -79,7 +79,7 @@ require (
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a // indirect
-	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/sys v0.8.0 // indirect
 	google.golang.org/genproto v0.0.0-20200825200019-8632dd797987 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 )
